@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on self made projects.<br>👯 I’m looking to collaborate on web dev projects in future.<br>🤝 I’m looking for help with AI based projects.<br>🌱 I’m currently learning MERN STACK and java.
+👋 Hi, I’m Nikkhil, a self taught full front end dev.
+🌱 I’m currently pursueing my CSE undergrad, having a knowledge of java, python and C++.
+📫 How to reach me instagram handle - @nikkkhil.k mail - kumarnikkhilk@gmail.com
 
 
 ## 🌐 Socials:
@@ -14,11 +16,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikkhil0646&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👋 Hi, I’m Nikkhil, a self taught full front end dev.
-- 🌱 I’m currently pursueing my CSE undergrad, having a knowledge of java, python and C++.
-- 📫 How to reach me 
-      instagram handle - @nikkkhil.k
-      mail - kumarnikkhilk@gmail.com
 
