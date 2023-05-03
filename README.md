@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nikkhil, a self taught full front end dev.
+👋 Hi, I’m Nikkhil, a self taught software developer.
 
 🌱 I’m currently pursueing my CSE undergrad, having a knowledge of java, python and C++.
 
