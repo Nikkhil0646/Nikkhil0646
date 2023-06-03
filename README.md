@@ -3,7 +3,10 @@
 
 🌱 I’m currently pursueing my CSE undergrad, having a knowledge of java, python and C++.
 
-📫 How to reach me instagram handle - @nikkkhil.k mail - kumarnikkhilk@gmail.com
+📫 How to reach me:
+   instagram - @nikkkhil.k 
+   mail - kumarnikkhilk@gmail.com
+   linkedIn - Binith Kumar
 
 
 ## 🌐 Socials:
