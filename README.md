@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Nikkhil, a dedicated and enthusiastic software developer with experience in various programming languages and frameworks. I enjoy working on both frontend and backend development.
+👋 Hi, I’m Nikkhil, a dedicated and enthusiastic software developer with experience in various programming languages and frameworks.
+
+I enjoy working on both frontend and backend development.
 
 🌱 I’m currently pursueing my CSE undergrad, having a knowledge of java, python and C++.
 
