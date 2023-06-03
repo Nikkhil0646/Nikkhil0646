@@ -1,7 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="200"/>
+  <h3>
+    Hey There!
+  </h3>
+  
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="350"/>
    
-# Connect with me 
+  
+  
+  <h3>Connect with me</h3> 
    
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikkkhil.k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binith-kumar/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20433754/binithk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kumar_nikkhil) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/SHADOWme) 
 </div>
