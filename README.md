@@ -5,7 +5,9 @@
 
 📫 How to reach me:
    instagram - @nikkkhil.k 
+   
    mail - kumarnikkhilk@gmail.com
+   
    linkedIn - Binith Kumar
 
 
