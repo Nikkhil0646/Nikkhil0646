@@ -48,8 +48,24 @@ I enjoy working on both frontend and backend development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cpp" alt="Cpp" width="40" height = "40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="docker" width="40" height = "40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-
 </div>
+
+
+# Microsoft
+<div>
+  <img src="https://learn.microsoft.com/en-us/training/achievements/best-practices-azure-migration.svg" title="Best-practices-azure-migration" alt="Best-practices-azure-migration" width="100"/>&nbsp;
+  <img src="https://learn.microsoft.com/en-us/training/achievements/cloud-adoption-framework.svg" title="cloud-adoption-framework" alt="cloud-adoption-framework" width="90"/>&nbsp;
+  <img src="https://learn.microsoft.com/en-us/training/achievements/cloud-adoption-as-part-of-a-cybersecurity-solution.svg" title="cloud-adoption-as-part-of-a-cybersecurity-solution" alt="cloud-adoption-as-part-of-a-cybersecurity-solution" width="100"/>&nbsp;
+  <img src="https://learn.microsoft.com/en-us/training/achievements/design-infrastructure-solutions.svg" title= "AZ - 350: Design-infrastructure-solutions" alt="AZ - 350: Design-infrastructure-solutions" width="90"/>&nbsp;
+  <img src="https://learn.microsoft.com/en-us/training/achievements/design-storage-solution.svg" title="AZ - 350: Design-storage-solution" alt="AZ - 350: Design-storage-solutions" width="90"/>&nbsp;
+  <img src="https://learn.microsoft.com/en-us/training/achievements/design-business-continuity-solutions.svg" title="AZ - 350: Design-business-continuity-solution" alt="AZ - 350: Design-business-continuity-solution" width="90"/>&nbsp;
+  <img src="https://learn.microsoft.com/en-us/training/achievements/design-identity-governance-solution.svg" title="AZ - 350: Design-business-continuity-solution" alt="AZ - 350: Design-business-continuity-solution" width="90"/>&nbsp;
+  <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-architect-design-prerequisites.svg" title="AZ - 350: Microsoft-azure-architect-design-prerequisites" alt="AZ - 350: Microsoft-azure-architect-design-prerequisites" width="90"/>&nbsp;
+  <img src="https://learn.microsoft.com/en-us/training/achievements/message-develop-solutions.svg" title="AZ - 204: Message-develop-solutions" alt="AZ - 204: Microsoft-azure-architect-design-prerequisites" width="90"/>&nbsp;
+  <img src="https://learn.microsoft.com/en-us/training/achievements/azure-well-architected-framework.svg" title="azure-well-architected-framework" alt="azure-well-architected-framework" width="90"/>&nbsp;
+  
+  
+
 
 
 # 📊 GitHub Stats:
