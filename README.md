@@ -50,8 +50,9 @@ I enjoy working on both frontend and backend development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-
+# 🏅 CERTIFICATIONS
 # Microsoft
+<p>
 <div target = "_blank">
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.best-practices-azure-migration.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD" ><img src="https://learn.microsoft.com/en-us/training/achievements/best-practices-azure-migration.svg" title="Best-practices-azure-migration" alt="Best-practices-azure-migration" width="100"/>&nbsp;</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.cloud-adoption-framework.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/cloud-adoption-framework.svg" title="cloud-adoption-framework" alt="cloud-adoption-framework" width="90"/>&nbsp;</a>
@@ -63,9 +64,21 @@ I enjoy working on both frontend and backend development.
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.microsoft-azure-architect-design-prerequisites.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-architect-design-prerequisites.svg" title="AZ - 350: Microsoft-azure-architect-design-prerequisites" alt="AZ - 350: Microsoft-azure-architect-design-prerequisites" width="90"/>&nbsp;</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.az-204-develop-message-based-solutions.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/message-develop-solutions.svg" title="AZ - 204: Message-develop-solutions" alt="AZ - 204: Microsoft-azure-architect-design-prerequisites" width="90"/>&nbsp;</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.azure-well-architected-framework.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/azure-well-architected-framework.svg" title="azure-well-architected-framework" alt="azure-well-architected-framework" width="90"/>&nbsp;</a>
-  
-  
+</p>
 
+<p>
+  
+</p>
+  
+# Google Cloud 
+<div target = "_blank">
+  <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/3822386" ><img src="https://cdn.qwiklabs.com/oqA%2BXyUFnCuPcQNuhUWLB4LFw6CBm0vumuOmQIIlknc%3D" title="Get Started with Looker" alt="Get Started with Looker" height ="100"/>&nbsp;</a>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2150538"><img src="https://cdn.qwiklabs.com/avLswGesBdPVZgJPWOCscSTTxTYoTwYBMa8%2F9VqB0Yg%3D" title="Application Modernization" alt="Application Modernizatino" height ="100"/>&nbsp;</a>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2146359"><img src="https://cdn.qwiklabs.com/Z5mHEcZSfjDvSjtBRmzjgY1O5B9uT%2BJME8KqR%2FgmmyI%3D" title="Infrastructure Modernization" alt="Infrastructure Modernization" height ="100"/>&nbsp;</a>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2146173"><img src="https://cdn.qwiklabs.com/kqE8y3KZ7X%2FFV6jbYL4fV7Hi0zEKgcGu3QEdy0ivq5o%3D" title= "Hybrid & Multi-Cloud" alt="Hybrid & Multi-Cloud" height ="100"/>&nbsp;</a>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/1952814"><img src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" title="Infrastructure Moernization" alt="Infrastructure Modernization" height ="100"/>&nbsp;</a>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/1971171"><img src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" title="Perform Foundational Infrastructure Tasks" alt="Perform Foundational Infrastructure Tasks" height = "100"/>&nbsp;</a>
+  
 
 
 # 📊 GitHub Stats:
