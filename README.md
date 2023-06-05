@@ -51,7 +51,7 @@ I enjoy working on both frontend and backend development.
 </div>
 
 # 🏅 CERTIFICATIONS
-# Microsoft
+# Microsoft  <img src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height = "25"/>&nbsp;
 <p>
 <div target = "_blank">
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.best-practices-azure-migration.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD" ><img src="https://learn.microsoft.com/en-us/training/achievements/best-practices-azure-migration.svg" title="Best-practices-azure-migration" alt="Best-practices-azure-migration" width="100"/>&nbsp;</a>
@@ -70,7 +70,7 @@ I enjoy working on both frontend and backend development.
   
 </p>
   
-# Google Cloud 
+# Google Cloud   <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width = "40" height = "40"/>&nbsp;
 <div target = "_blank">
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/3822386" ><img src="https://cdn.qwiklabs.com/oqA%2BXyUFnCuPcQNuhUWLB4LFw6CBm0vumuOmQIIlknc%3D" title="Get Started with Looker" alt="Get Started with Looker" height ="100"/>&nbsp;</a>
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2150538"><img src="https://cdn.qwiklabs.com/avLswGesBdPVZgJPWOCscSTTxTYoTwYBMa8%2F9VqB0Yg%3D" title="Application Modernization" alt="Application Modernizatino" height ="100"/>&nbsp;</a>
