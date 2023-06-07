@@ -29,6 +29,8 @@ I enjoy working on both frontend and backend development.
    linkedIn - Binith Kumar
    
    
+# Github 🏅
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nikkhil0646&rank=S,AAA,AA,A,B,C&theme=onedark)](https://github.com/Nikkhil0646/github-profile-trophy)
 
 
 
