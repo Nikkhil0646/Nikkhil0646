@@ -27,6 +27,9 @@ I enjoy working on both frontend and backend development.
    mail - kumarnikkhilk@gmail.com
    
    linkedIn - Binith Kumar
+   
+   
+
 
 
 # 🌐 Socials:
@@ -64,7 +67,7 @@ I enjoy working on both frontend and backend development.
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.microsoft-azure-architect-design-prerequisites.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-architect-design-prerequisites.svg" title="AZ - 350: Microsoft-azure-architect-design-prerequisites" alt="AZ - 350: Microsoft-azure-architect-design-prerequisites" width="90"/>&nbsp;</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.az-204-develop-message-based-solutions.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/message-develop-solutions.svg" title="AZ - 204: Message-develop-solutions" alt="AZ - 204: Microsoft-azure-architect-design-prerequisites" width="90"/>&nbsp;</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.azure-well-architected-framework.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/azure-well-architected-framework.svg" title="azure-well-architected-framework" alt="azure-well-architected-framework" width="90"/>&nbsp;</a>
-</p>
+  </p>
 
 <p>
   
