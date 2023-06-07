@@ -29,7 +29,7 @@ I enjoy working on both frontend and backend development.
    linkedIn - Binith Kumar
    
    
-# Github 🏅
+# 🏅 Github:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nikkhil0646&rank=S,AAA,AA,A,B,C&theme=onedark)](https://github.com/Nikkhil0646/github-profile-trophy)
 
 
@@ -55,7 +55,7 @@ I enjoy working on both frontend and backend development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-# 🏅 CERTIFICATIONS
+# 🏅 Certifications:
 # Microsoft  <img src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height = "25"/>&nbsp;
 <p>
 <div target = "_blank">
