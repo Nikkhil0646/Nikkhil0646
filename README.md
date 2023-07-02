@@ -58,8 +58,10 @@ I enjoy working on both frontend and backend development.
 # 🏅 Certifications:
 # Microsoft  <img src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height = "25"/>&nbsp;
 <p>
+  <a href = https://learn.microsoft.com/en-us/users/nikkhilk-4522/>Go to Profile </a>
+</p>
+<p>
 <div target = "_blank">
-  <a href = https://learn.microsoft.com/en-us/users/nikkhilk-4522/>Go to Profile</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.az-400-design-implement-release-strategy.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD" ><img src="https://learn.microsoft.com/en-us/training/achievements/az-400-design-and-implement-a-release-strategy.svg" title="AZ-400: Design and implement a release strategy" alt="AZ-400: Design and implement a release strategy" width="100"/>&nbsp;</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn-m365.cybersecurity-secure-cloud-adoption.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/cloud-adoption-as-part-of-a-cybersecurity-solution.svg" title="cloud-adoption-as-part-of-a-cybersecurity-solution" alt="cloud-adoption-as-part-of-a-cybersecurity-solution" width="100"/>&nbsp;</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.design-infranstructure-solutions.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/design-infrastructure-solutions.svg" title= "AZ - 350: Design-infrastructure-solutions" alt="AZ - 350: Design-infrastructure-solutions" width="90"/>&nbsp;</a>
@@ -75,6 +77,9 @@ I enjoy working on both frontend and backend development.
 </p>
   
 # Google Cloud   <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width = "40" height = "40"/>&nbsp;
+<p>
+  <a href = https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883>Go to Profile </a>
+</p>
 <div target = "_blank">
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/3822386" ><img src="https://cdn.qwiklabs.com/oqA%2BXyUFnCuPcQNuhUWLB4LFw6CBm0vumuOmQIIlknc%3D" title="Get Started with Looker" alt="Get Started with Looker" height ="100"/>&nbsp;</a>
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2150538"><img src="https://cdn.qwiklabs.com/avLswGesBdPVZgJPWOCscSTTxTYoTwYBMa8%2F9VqB0Yg%3D" title="Application Modernization" alt="Application Modernizatino" height ="100"/>&nbsp;</a>
