@@ -59,6 +59,7 @@ I enjoy working on both frontend and backend development.
 # Microsoft  <img src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height = "25"/>&nbsp;
 <p>
 <div target = "_blank">
+  <a href = https://learn.microsoft.com/en-us/users/nikkhilk-4522/>Go to Profile</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.az-400-design-implement-release-strategy.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD" ><img src="https://learn.microsoft.com/en-us/training/achievements/az-400-design-and-implement-a-release-strategy.svg" title="AZ-400: Design and implement a release strategy" alt="AZ-400: Design and implement a release strategy" width="100"/>&nbsp;</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn-m365.cybersecurity-secure-cloud-adoption.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/cloud-adoption-as-part-of-a-cybersecurity-solution.svg" title="cloud-adoption-as-part-of-a-cybersecurity-solution" alt="cloud-adoption-as-part-of-a-cybersecurity-solution" width="100"/>&nbsp;</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.design-infranstructure-solutions.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/design-infrastructure-solutions.svg" title= "AZ - 350: Design-infrastructure-solutions" alt="AZ - 350: Design-infrastructure-solutions" width="90"/>&nbsp;</a>
