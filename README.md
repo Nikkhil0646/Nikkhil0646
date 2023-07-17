@@ -84,8 +84,7 @@ I enjoy working on both frontend and backend development.
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2150538"><img src="https://cdn.qwiklabs.com/avLswGesBdPVZgJPWOCscSTTxTYoTwYBMa8%2F9VqB0Yg%3D" title="Application Modernization" alt="Application Modernizatino" height ="100"/>&nbsp;</a>
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2146359"><img src="https://cdn.qwiklabs.com/Z5mHEcZSfjDvSjtBRmzjgY1O5B9uT%2BJME8KqR%2FgmmyI%3D" title="Infrastructure Modernization" alt="Infrastructure Modernization" height ="100"/>&nbsp;</a>
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2146173"><img src="https://cdn.qwiklabs.com/kqE8y3KZ7X%2FFV6jbYL4fV7Hi0zEKgcGu3QEdy0ivq5o%3D" title= "Hybrid & Multi-Cloud" alt="Hybrid & Multi-Cloud" height ="100"/>&nbsp;</a>
-  <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/1952814"><img src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" title="Infrastructure Moernization" alt="Infrastructure Modernization" height ="100"/>&nbsp;</a>
-  <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/1971171"><img src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" title="Perform Foundational Infrastructure Tasks" alt="Perform Foundational Infrastructure Tasks" height = "100"/>&nbsp;</a>
+  <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/1952814"><img src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" title="Infrastructure Moernization" alt="Infra
   
 
 
