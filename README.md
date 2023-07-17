@@ -71,22 +71,18 @@ I enjoy working on both frontend and backend development.
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.microsoft-azure-architect-design-prerequisites.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-architect-design-prerequisites.svg" title="AZ - 350: Microsoft-azure-architect-design-prerequisites" alt="AZ - 350: Microsoft-azure-architect-design-prerequisites" width="90"/>&nbsp;</a>
   </p>
 
-<p>
-  
-</p>
   
 # Google Cloud   <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width = "40" height = "40"/>&nbsp;
 <p>
   <a href = https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883>Go to Profile </a>
 </p>
+<p>
 <div target = "_blank">
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/3822386" ><img src="https://cdn.qwiklabs.com/oqA%2BXyUFnCuPcQNuhUWLB4LFw6CBm0vumuOmQIIlknc%3D" title="Get Started with Looker" alt="Get Started with Looker" height ="100"/>&nbsp;</a>
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2150538"><img src="https://cdn.qwiklabs.com/avLswGesBdPVZgJPWOCscSTTxTYoTwYBMa8%2F9VqB0Yg%3D" title="Application Modernization" alt="Application Modernizatino" height ="100"/>&nbsp;</a>
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2146359"><img src="https://cdn.qwiklabs.com/Z5mHEcZSfjDvSjtBRmzjgY1O5B9uT%2BJME8KqR%2FgmmyI%3D" title="Infrastructure Modernization" alt="Infrastructure Modernization" height ="100"/>&nbsp;</a>
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2146173"><img src="https://cdn.qwiklabs.com/kqE8y3KZ7X%2FFV6jbYL4fV7Hi0zEKgcGu3QEdy0ivq5o%3D" title= "Hybrid & Multi-Cloud" alt="Hybrid & Multi-Cloud" height ="100"/>&nbsp;</a>
-  <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/1952814"><img src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" title="Infrastructure Moernization" alt="Infra
-  
-
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nikkhil0646&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
