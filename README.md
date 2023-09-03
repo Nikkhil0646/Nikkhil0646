@@ -69,7 +69,16 @@ I enjoy working on both frontend and backend development.
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.design-business-continuity-solutions.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/design-business-continuity-solutions.svg" title="AZ - 350: Design-business-continuity-solution" alt="AZ - 350: Design-business-continuity-solution" width="90"/>&nbsp;</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.design-identity-governance-monitor-solutions.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/design-identity-governance-solution.svg" title="AZ - 350: Design-indentity-governance-solution" alt="AZ - 350: Design-indentity-governance-solution" width="90"/>&nbsp;</a>
   <a href = "https://learn.microsoft.com/en-us/training/achievements/learn.wwl.microsoft-azure-architect-design-prerequisites.trophy?username=NikkhilK-4522&sharingId=2790BD013102A5BD"><img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-architect-design-prerequisites.svg" title="AZ - 350: Microsoft-azure-architect-design-prerequisites" alt="AZ - 350: Microsoft-azure-architect-design-prerequisites" width="90"/>&nbsp;</a>
+
   </p>
+
+# Leetcode
+<p>
+  <a href = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif"><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" title = "Leetcode Badges" height = "100"/>&nbsp;</a>
+  <a href = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif"><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" title = "Leetcode Badges" height = "100"/>&nbsp;</a>
+  <a href = https://leetcode.com/static/images/badges/2023/gif/2023-08.gif><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" title ="Leetcode Badges" height = "100"/>&nbsp;</a>
+</p>
+
 
   
 # Google Cloud   <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width = "40" height = "40"/>&nbsp;
