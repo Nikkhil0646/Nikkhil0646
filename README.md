@@ -80,6 +80,7 @@ I enjoy working on both frontend and backend development.
   <a href = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif"><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" title = "Leetcode Badges" height = "100"/>&nbsp;</a>
   <a href = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif"><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" title = "Leetcode Badges" height = "100"/>&nbsp;</a>
   <a href = https://leetcode.com/static/images/badges/2023/gif/2023-08.gif><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" title ="Leetcode Badges" height = "100"/>&nbsp;</a>
+  <a href = "https://leetcode.com/static/images/badges/2023/gif/2023-09.gif"><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-09.gif" title = "Leetcode Badges" height = "100"/>&nbsp;</a>
 </p>
 
 
