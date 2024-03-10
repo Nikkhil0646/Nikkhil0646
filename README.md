@@ -98,6 +98,10 @@ I enjoy working on both frontend and backend development.
   <a href = "https://www.cloudskillsboost.google/public_profiles/6c4c6ebc-05d9-4b2c-879d-cb5b1d927883/badges/2146173"><img src="https://cdn.qwiklabs.com/kqE8y3KZ7X%2FFV6jbYL4fV7Hi0zEKgcGu3QEdy0ivq5o%3D" title= "Hybrid & Multi-Cloud" alt="Hybrid & Multi-Cloud" height ="100"/>&nbsp;</a>
 </p>
 
+<p>
+ <a href="https://app.daily.dev/nikkhilk"><img src="https://api.daily.dev/devcards/v2/hMbdSOscCmompxnokLosw.png?type=wide&r=js4" width="652" alt="Binith Kumar's Dev Card"/></a>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nikkhil0646&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nikkhil0646&theme=dark&hide_border=false)<br/>
