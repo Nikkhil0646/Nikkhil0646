@@ -99,7 +99,7 @@ I enjoy working on both frontend and backend development.
 </p>
 
 <p>
- <a href="https://app.daily.dev/nikkhilk"><img src="https://api.daily.dev/devcards/v2/hMbdSOscCmompxnokLosw.png?type=wide&r=js4" width="652" alt="Binith Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/nikkhilk"><img src="https://api.daily.dev/devcards/v2/hMbdSOscCmompxnokLosw.png?type=wide&r=f9o" width="652" alt="Binith Kumar's Dev Card"/></a>
 </p>
 
 # 📊 GitHub Stats:
